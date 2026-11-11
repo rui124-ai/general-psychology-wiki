@@ -6,5 +6,4 @@
   - - \*\*UI 元件\*\*： - 頂部導覽列 (Navbar)：包含網站名稱與主要章節連結。
   - - 卡片區塊 (Cards)：重點概念需使用圓角（border-radius: 10px）與輕微陰影（box-shadow: 0 4px 6px rgba(0,0,0,0.05)）。
   - - 專有名詞標籤 (Badge)：心理學專有名詞（如 \`Cognition\`, \`Memory\`）需使用小標籤凸顯。
-  ## 3\. 檔案結構與命名規範 (File Structure &amp; Naming) 新增或修改檔案時，必須嚴格遵守以下目錄結構與命名邏輯： \`\`\`text / ├── index.html # 網站首頁（總覽與導覽） ├── AGENTS.md # AI 開發規則指南 ├── assets/ │ ├── css/style.css # 全域統一樣式表 │ └── images/ # 示意圖與圖表資料夾 └── pages/ # 心理學主題內容頁面 ├── cognition-memory.html # 認知與記憶篇 └── emotion-motivation.html 
-# 情緒與動機篇
+  ## 3\. 檔案結構與命名規範 (File Structure &amp; Naming) 新增或修改檔案時，必須嚴格遵守以下目錄結構與命名邏輯： \`\`\`text / ├── index.html # 網站首頁（總覽與導覽） ├── AGENTS.md # AI 開發規則指南 ├── assets/ │ ├── css/style.css # 全域統一樣式表 │ └── images/ # 示意圖與圖表資料夾 └── pages/ # 心理學主題內容頁面 ├── cognition-memory.html # 認知與記憶篇 └── emotion-motivation.html # 情緒與動機篇
